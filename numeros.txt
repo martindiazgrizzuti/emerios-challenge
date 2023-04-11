@@ -1,0 +1,7 @@
+B, B, B, B, D, L, F, D, L, 2
+B, X, C, 7, D, J, K, D, 2, K
+H, Y, 7, 3, E, D, 3, R, K, 3
+R, 7, O, Ñ, G, D, 2, S, D, 2
+X, N, S, Ñ, E, 0, K, E, 0, D
+A, 9, C, Ñ, D, E, F, D, E, F
+A, X, D, Ñ, D, J, E, D, J, E
